@@ -21,4 +21,7 @@ git clone https://www.github.com/viniciusjose/api-transito.git
 <p>Realizar o clone do projeto na pasta "C:\Laragon\www" após isso o proprio Laragon ira identificar o projeto
 e irá realizar a criação do virtual host necessario para o projeto funcionar</p>
 <p>Para testar o funcionando do projeto basta acessar http://api-transito.test</p>
+<p>Caso ocorra algum erro do tipo: </p>
+<img src="https://i.stack.imgur.com/IJ3ai.png"><img>
+<p>Para resolver este erro basta clicar no botão verde chamado Generate app key, e recarregue a página</p>
 <p>Qualquer duvida para subir o projeto entre em contato conosco por e-mail vinicius.jsilv@gmail.com</p>
