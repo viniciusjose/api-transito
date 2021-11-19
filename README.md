@@ -15,7 +15,7 @@ a emulação do ambiente de Laravel.</p>
 <p>Após a instalação realizar o clone deste projeto com o comando :</p>
 
 ```
-Git clone https://www.github.com/viniciusjose/api-transito.git
+git clone https://www.github.com/viniciusjose/api-transito.git
 ```
 
 <p>Realizar o clone do projeto na pasta "C:\Laragon\www" após isso o proprio Laragon ira identificar o projeto
