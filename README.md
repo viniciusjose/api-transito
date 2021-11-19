@@ -9,7 +9,7 @@
 
 ## Como Rodar o Projeto
 
-<p>Para rodar em ambiente windows é necessario realizar a instalações do Software Laragon para realizar a 
+<p>Para rodar em ambiente windows é necessario realizar a instalação do Software Laragon para realizar a 
 a emulação do ambiente de Laravel.</p>
 <a href="https://laragon.org/download/index.html">Link de Download do Laragon</a>
 <p>Após a instalação realizar o clone deste projeto com o comando :</p>
