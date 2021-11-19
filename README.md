@@ -13,11 +13,11 @@
 a emulação do ambiente de Laravel.</p>
 <a href="https://laragon.org/download/index.html">Link de Download do Laragon</a>
 <p>Após a instalação realizar o clone deste projeto com o comando :</p>
+
 ```
-```git
 Git clone https://www.github.com/viniciusjose/api-transito.git
 ```
-```
+
 <p>Realizar o clone do projeto na pasta "C:\Laragon\www" após isso o proprio Laragon ira identificar o projeto
 e irá realizar a criação do virtual host necessario para o projeto funcionar</p>
 <p>Para testar o funcionando do projeto basta acessar http://api-transito.test</p>
